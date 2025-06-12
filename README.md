@@ -6,12 +6,12 @@ This repository contains the code and analysis for predicting housing prices in 
 
 ## Table of Contents 📋
 
-1. [Business Context](#business-context)
-2. [Project Workflow](#project-workflow)
-3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Conclusion](#conclusion)
-6. [Author](#author)
+1. Business Context
+2. Project Workflow
+3. Methodology
+4. Results
+5. Conclusion
+6. Author
 
 ---
 
